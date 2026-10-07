@@ -1,5 +1,11 @@
 # VQ2 Foundry API Module Changelog
 
+## 1.1.0
+
+- Added Foundry VTT V13 compatibility while retaining V14 support.
+- Updated the manifest to the V13/V14 numeric compatibility format and added the public repository URL.
+- Bumped revisioned assets and the public download artifact to `1.1.0`.
+
 ## 1.0.0
 
 - Prepared the Foundry VTT V14 module for public distribution as a standalone download.

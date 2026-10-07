@@ -1,5 +1,5 @@
 /**
- * Lisa's Dungeon VQ2 Foundry V14 module entry point.
+ * Lisa's Dungeon VQ2 Foundry V13/V14 module entry point.
  * Copyright © 2026 Lisa's Dungeon
  * Contributor: Lisa's Dungeon
  *
@@ -10,7 +10,7 @@ export const MODULE_ID = 'ld-vq2-optimizer';
 export const RELAY_SETTING = 'relayEndpoint';
 export const GM_HUB_SETTING = 'gmHub';
 export const RUNTIME_STATE_SETTING = 'runtimeState';
-const ASSET_REVISION = '1.0.0';
+const ASSET_REVISION = '1.1.0';
 
 function createGMHubType() {
   const ApplicationV2 = globalThis.foundry?.applications?.api?.ApplicationV2;

@@ -1,18 +1,19 @@
 {
   "id": "ld-vq2-optimizer",
   "title": "Lisa's Dungeon VQ2 Optimizer",
-  "description": "Foundry VTT V14 bridge and bounded GM Hub for the server-side VQ2 optimizer relay.",
-  "version": "1.0.0",
+  "description": "Foundry VTT V13/V14 bridge and bounded GM Hub for the server-side VQ2 optimizer relay.",
+  "version": "1.1.0",
+  "url": "https://github.com/lisasdungeon/ld-vq2-optimizer-foundry",
   "manifest": "https://github.com/lisasdungeon/ld-vq2-optimizer-foundry/releases/latest/download/module.json",
-  "download": "https://github.com/lisasdungeon/ld-vq2-optimizer-foundry/releases/download/v1.0.0/ld-vq2-optimizer-foundry-1.0.0.zip",
+  "download": "https://github.com/lisasdungeon/ld-vq2-optimizer-foundry/releases/download/v1.1.0/ld-vq2-optimizer-foundry-1.1.0.zip",
   "authors": [
     {
       "name": "Lisa's Dungeon"
     }
   ],
   "compatibility": {
-    "minimum": "14",
-    "verified": "14"
+    "minimum": 13,
+    "verified": 14
   },
   "esmodules": [
     "scripts/module.js"

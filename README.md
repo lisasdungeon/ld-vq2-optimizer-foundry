@@ -1,6 +1,6 @@
 # Lisa's Dungeon VQ2 Optimizer for Foundry VTT
 
-This public module targets Foundry VTT V14 and contains only the client API bridge,
+This public module targets Foundry VTT V13 and V14 and contains only the client API bridge,
 bounded GM Hub, runtime adapter, socket bridge, and module-owned styles.
 It does not include VQ2 engines, libraries, turbos, server credentials, raw
 chat or document data, executable plans, or arbitrary setting paths.
@@ -11,8 +11,8 @@ In Foundry VTT, install the module from this manifest URL:
 
 `https://github.com/lisasdungeon/ld-vq2-optimizer-foundry/releases/latest/download/module.json`
 
-For a manual install, download the `ld-vq2-optimizer-foundry-1.0.0.zip` asset
-from the `v1.0.0` GitHub release and extract the `ld-vq2-optimizer` directory
+For a manual install, download the `ld-vq2-optimizer-foundry-1.1.0.zip` asset
+from the `v1.1.0` GitHub release and extract the `ld-vq2-optimizer` directory
 into the Foundry `Data/modules` directory.
 
 After `ready`, the module exposes:

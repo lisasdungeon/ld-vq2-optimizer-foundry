@@ -1,7 +1,7 @@
 {
   "name": "ld-vq2-optimizer-foundry",
-  "version": "1.0.0",
-  "description": "Lisa's Dungeon VQ2 Optimizer bridge for Foundry VTT V14.",
+  "version": "1.1.0",
+  "description": "Lisa's Dungeon VQ2 Optimizer bridge for Foundry VTT V13 and V14.",
   "type": "module",
   "author": "Lisa's Dungeon",
   "license": "Proprietary",
